@@ -1,0 +1,11 @@
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/bin/Debug/net9.0/StoreAPI.models.deps.json
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/bin/Debug/net9.0/StoreAPI.models.dll
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/bin/Debug/net9.0/StoreAPI.models.pdb
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.AssemblyInfoInputs.cache
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.AssemblyInfo.cs
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.csproj.CoreCompileInputs.cache
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.dll
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/refint/StoreAPI.models.dll
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.pdb
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/ref/StoreAPI.models.dll

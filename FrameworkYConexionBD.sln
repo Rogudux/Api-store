@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkYConexionBD", "FrameworkYConexionBD\FrameworkYConexionBD.csproj", "{92DFB8F3-705C-4D98-B4ED-CC8EC5463566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreAPI.models", "StoreAPI.models\StoreAPI.models.csproj", "{6D320675-BCE0-40B9-8FF0-7F088365366E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DFB8F3-705C-4D98-B4ED-CC8EC5463566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DFB8F3-705C-4D98-B4ED-CC8EC5463566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DFB8F3-705C-4D98-B4ED-CC8EC5463566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DFB8F3-705C-4D98-B4ED-CC8EC5463566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D320675-BCE0-40B9-8FF0-7F088365366E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D320675-BCE0-40B9-8FF0-7F088365366E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D320675-BCE0-40B9-8FF0-7F088365366E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D320675-BCE0-40B9-8FF0-7F088365366E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

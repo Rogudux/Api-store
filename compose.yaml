@@ -1,0 +1,21 @@
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: SQL_Server
+    ports:
+      - 1434:1433
+    environment:
+      - MSSQL_SA_PASSWORD=Basti..10
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Developer
+    
+    volumes:
+      - sql_server_data:/var/opt/mssql
+volumes:
+  sql_server_data:
+    
+#Aqui levantamos nuestro contenedor con SQL SERVER con las especificaciones del puerto, sql corre en puerto 1433 y lo pusimos
+#Para usar en el 1434, con la contrasena de basti y en true con esto lo lentantamos y luego hacemos el string para la conexion en
+# json del programa
+ 
+ 
