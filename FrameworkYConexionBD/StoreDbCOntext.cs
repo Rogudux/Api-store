@@ -58,7 +58,7 @@ public class StoreDbCOntext : DbContext
         );
 
         modelBuilder.Entity<Product>().HasData(
-            new Product { Id = 1, Name = "Zapatos de piell", Description = "Calzado típico de León", Precio = 1200, StoreId = 4 },
+            new Product { Id = 1, Name = "Zapatos de piel", Description = "Calzado típico de León", Precio = 1200, StoreId = 4 },
             new Product { Id = 2, Name = "Bolsa de cuero", Description = "Artesanía local", Precio = 950, StoreId = 4 },
             new Product { Id = 3, Name = "Hamburguesa doble", Description = "Comida rápida", Precio = 120, StoreId = 1 },
             new Product { Id = 4, Name = "Pizza familiar", Description = "Especialidad italiana", Precio = 220, StoreId = 2 },
