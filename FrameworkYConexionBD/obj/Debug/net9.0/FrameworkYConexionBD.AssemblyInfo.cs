@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrameworkYConexionBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f409130e1361800f267d734ee7bebdb19530ab8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4dc20f8ee00a79dfc0d4143023123a3d47be3e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrameworkYConexionBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrameworkYConexionBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
