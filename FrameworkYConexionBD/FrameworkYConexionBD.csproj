@@ -25,4 +25,13 @@
       <ProjectReference Include="..\StoreAPI.models\StoreAPI.models.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+        <None Include="Rotativa\Linux\wkhtmltopdf" CopyToOutputDirectory="PreserveNewest" />
+
+        <None Include="Rotativa\Mac\wkhtmltopdf" CopyToOutputDirectory="PreserveNewest" />
+
+        <None Include="Rotativa\Windows\wkhtmltopdf.exe" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
+
 </Project>

@@ -1,6 +1,7 @@
 using System.Text.Json.Serialization;
 using FrameworkYConexionBD;
 using Microsoft.EntityFrameworkCore;
+using Wkhtmltopdf.NetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,7 @@ var ConnectionString = builder.Configuration.GetConnectionString("SqlServer");
 
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
+builder.Services.AddWkhtmltopdf();
 
 builder.Services.AddControllers()
     .AddJsonOptions(o =>
@@ -22,6 +24,16 @@ builder.Services.AddControllers()
         o.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
         o.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
     });
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
 
 
 //Aqui juntamos todo el contexto y el connection string para ahcer la conexion a la base 
@@ -48,5 +60,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.UseCors("AllowAll");
+    
 app.Run();
 

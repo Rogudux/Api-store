@@ -578,3 +578,9 @@
 /Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 /Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 /Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/bin/Debug/net9.0/Wkhtmltopdf.NetCore.dll
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/obj/Debug/net9.0/FrameworkYConexionBD.sourcelink.json
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/bin/Debug/net9.0/Rotativa/Linux/wkhtmltopdf
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/bin/Debug/net9.0/Rotativa/Mac/wkhtmltopdf
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/bin/Debug/net9.0/Rotativa/Windows/wkhtmltopdf.exe
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/obj/Debug/net9.0/FrameworkYConexionBD.RazorAssemblyInfo.cache
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/FrameworkYConexionBD/obj/Debug/net9.0/FrameworkYConexionBD.RazorAssemblyInfo.cs

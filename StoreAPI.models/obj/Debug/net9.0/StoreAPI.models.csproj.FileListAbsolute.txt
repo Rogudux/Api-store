@@ -9,3 +9,4 @@
 /Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/refint/StoreAPI.models.dll
 /Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.pdb
 /Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/ref/StoreAPI.models.dll
+/Users/basti/Documents/Semestre6/Georeferenciados/FrameworkYConexionBD/StoreAPI.models/obj/Debug/net9.0/StoreAPI.models.sourcelink.json
