@@ -10,6 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
  */
 var ConnectionString = builder.Configuration.GetConnectionString("SqlServer");
 
+var OpenAIKey = builder.Configuration["OpenAIKey"];
+
+Console.WriteLine($"Open AI Key: {OpenAIKey}");
+
 //Esta es la instacion de la conexion a la base de datos
 
 
